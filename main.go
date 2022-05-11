@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gifmoji/cmd"
+	"github.com/zrl/gifmoji/cmd"
 )
 
 func main() {

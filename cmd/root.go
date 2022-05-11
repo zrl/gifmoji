@@ -6,8 +6,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"gifmoji/internal"
-	"gifmoji/internal/infinite"
+	"github.com/zrl/gifmoji/internal"
+	"github.com/zrl/gifmoji/internal/infinite"
 )
 
 var (
