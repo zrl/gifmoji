@@ -1,4 +1,4 @@
-module gifmoji
+module github.com/zrl/gifmoji
 
 go 1.18
 
